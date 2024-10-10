@@ -17,3 +17,4 @@ jobs:
                     echo "Pull requests to the master branch are not allowed, target dev branch"
                     exit 1
                   fi
+
