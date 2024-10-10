@@ -5,6 +5,7 @@ on:
         branches:
             - master
 
+
 jobs:
     fail_pr:
         runs-on: ubuntu-latest
